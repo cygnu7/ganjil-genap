@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GANJIL GENAP</string>
+    <string name="button_label_toast">APLIKASI APA INI?</string>
+    <string name="count_initial_value">0</string>
+    <string name="button_label_count">MULAI</string>
+    <string name="toast_message">APLIKASI GANJIL GENAP!</string>
+    <string name="ganjil">GANJIL</string>
+    <string name="genap">GENAP</string>
+</resources>
