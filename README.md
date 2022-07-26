@@ -1,3 +1,3 @@
-# Aplikasi Android : Ganjil Genap
-## Project Iseng
+# Ganjil Genap
+## Project Iseng Android
 Aplikasi Android yang menampilkan angka Ganjil dan Genap
